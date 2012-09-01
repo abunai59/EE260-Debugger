@@ -1,5 +1,13 @@
 *.class
 
+# Eclipse stuff
+*.classpath
+*.project
+.settings/
+
+# The Build
+target/
+
 # Package Files #
 *.jar
 *.war

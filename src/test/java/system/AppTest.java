@@ -1,4 +1,4 @@
-package com.ee467.app;
+package system;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
