@@ -1,0 +1,2 @@
+		LDB 0x40
+LOOP:	ADDIA 10

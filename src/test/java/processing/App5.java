@@ -1,5 +1,5 @@
 package processing;
 
-public class App {
+public class App5 {
 
 }

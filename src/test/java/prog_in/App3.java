@@ -1,5 +1,5 @@
 package prog_in;
 
-public class App {
+public class App3 {
 
 }
